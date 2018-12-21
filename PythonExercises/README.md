@@ -1,5 +1,5 @@
 # Informations
-Here you can find some useful Python exercises I used during a Data Science course. Work in progress...
+Here you can find a list of exercises that I proposed to my class during the *Python lessons* of the *Data Science* course. 
 
 # EX1
 The relationship between the sides (a, b) of a triangle and the hypotenuse (h) is given by the formula: 𝑎^2+𝑏^2=ℎ^2. Write a program that reads the length of the sides and calculates the hypotenuse.
