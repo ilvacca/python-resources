@@ -33,10 +33,15 @@ Write and run a program that simulates a simple calculator. It must reads two in
 Write a program that asks for a non-negative value "n", let's say 6, and displays the following output:
 
 1?2?3?4?5?6
+
 1?2?3?4?5
+
 1?2?3?4
+
 1?2?3
+
 1?2
+
 1
 
 ### EX6
