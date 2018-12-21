@@ -1,4 +1,4 @@
-#ESERCIZIO 12
+# Exercise 12
 '''Write a function that gives a set of students and grades associated with them returns a dictionary 
 of students and grades associated with them, divided by letter of surname. 
 The keys are the groups (a-f), (g-o), (p-z), the values, the student lists and the grades.
