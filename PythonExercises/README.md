@@ -1,17 +1,11 @@
 ### INFO
-
-Here you can find some useful Python exercises. Work in progress...
+Here you can find some useful Python exercises I used during a Data Science course. Work in progress...
 
 ### EX1
-La relazione fra i lati (a, b) di un triangolo e l’ipotenusa (h) viene data dalla formula: 𝑎^2+𝑏^2=ℎ^2. Scrivere un programma che legga la lunghezza dei lati e calcoli l’ipotenusa.
-
- - Nota. La radice quadrata si può calcolare con la funzione sqrt(), definita in «math»
-
-Nota. Per leggere un input da tastiera si può usare la funzione raw_input che:
-
- - attende un input da tastiera
- - restituisce l'input quando viene premuto invio
- - ad esempio: nome = raw_input("Ciao, come ti chiami? ")
+The relationship between the sides (a, b) of a triangle and the hypotenuse (h) is given by the formula: 𝑎^2+𝑏^2=ℎ^2. Write a program that reads the length of the sides and calculates the hypotenuse.
+Notes:
+- The square root can be calculated with the function sqrt(), defined in "math" library.
+- To read a keyboard input you can use the raw_input() function that waits a keyboard input and returns it after ENTER is pressed;
 
 ### EX2
 Scrivere un programma per convertire una misura data in piedi ai suoi equivalenti in:
@@ -36,6 +30,7 @@ Scrivere un programma che legga i coefficienti a, b, c, d, e, f di un sistema li
 ### EX5
 
 ### EX6
+Write a function that reads a sequence of 10 numbers in a certain order and then displays them in direct and reverse order (without using shortcuts).
 
 ### EX7
 
