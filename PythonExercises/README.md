@@ -1,39 +1,43 @@
 # Informations
 Here you can find some useful Python exercises I used during a Data Science course. Work in progress...
 
-____
-
 # EX1
 The relationship between the sides (a, b) of a triangle and the hypotenuse (h) is given by the formula: 𝑎^2+𝑏^2=ℎ^2. Write a program that reads the length of the sides and calculates the hypotenuse.
 Notes:
 - The square root can be calculated with the function sqrt(), defined in "math" library.
 - To read a keyboard input you can use the raw_input() function that waits a keyboard input and returns it after ENTER is pressed;
 
-____
+# EX2
+Write a program to convert a given measurement in feet to its equivalents in:
+a) yards
+b) inches
+c) centimetres
+d) metres 
+Read the number of feet and print the number of yards, inches, centimeters and meters.
 
-### EX2
-Scrivere un programma per convertire una misura data in piedi ai suoi equivalenti in:
+# EX3
+Write a program that reads the coefficients a, b, c, d, e, f of a linear system of two equations with two variables and shows the solution.
 
-a) iarde
-b) pollici
-c) centimetri
-d) metri 
+- 𝑎𝑥+𝑏𝑦=𝑒
+- 𝑐𝑥+𝑑𝑦=𝑓
 
-Leggere il numero di piedi e stampare il numero di iarde, pollici, centimetri e metri.
+# EX4
+Write and run a program that simulates a simple calculator. It must reads two integers and one character and...
+- Print the sum if the "+" is inserted
+- Print the difference if the "-" is inserted
+- Print the product if the "*" is inserted
+- Print the quotient if the "/" is inserted
+- Print the rest if the "%" is inserted
 
-- Nota. 1 piede = 12 pollici, 1 iarda = 3 piedi, 1 pollice = 2,54 cm, 1 m = 100 cm. 
+# EX5
+Write a program that asks for a non-negative value "n", let's say 6, and displays the following output:
 
-____
-
-### EX3
-Scrivere un programma che legga i coefficienti a, b, c, d, e, f di un sistema lineare di due equazioni con due incognite e ne mostri la soluzione.
-
-  𝑎𝑥+𝑏𝑦=𝑒
-  𝑐𝑥+𝑑𝑦=𝑓
-
-### EX4
-
-### EX5
+1?2?3?4?5?6
+1?2?3?4?5
+1?2?3?4
+1?2?3
+1?2
+1
 
 ### EX6
 Write a function that reads a sequence of 10 numbers in a certain order and then displays them in direct and reverse order (without using shortcuts).
