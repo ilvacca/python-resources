@@ -53,8 +53,14 @@ Use a one-dimensional array to record all occurrences of each possible sum and d
 NOTE: What is the most likely value you expect? Does it match your forecasts?
 
 # EX8
+Write a program that generates a vector with 10 random numbers between 1 and 100 and sort them in a crescent or decrescent way (without shortcuts). Print the vector before and after sorting.
 
 # EX9
+Define a *Rectangle* class. This class should have:
+- *length* and *width* attributes;
+- two functions that calculate the *perimeter* and *area* of the rectangle
+- *set* and *get* functions for *length* and *width.+ The *set* functions must verify that *length* and *width* are floating point numbers between 0.0 and 20.0.
+Instantiate a *Rectangle* object and verify the code.
 
 # EX10
 
