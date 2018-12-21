@@ -44,26 +44,29 @@ Write a program that asks for a non-negative value "n", let's say 6, and display
 
 1
 
-### EX6
+# EX6
 Write a function that reads a sequence of 10 numbers in a certain order and then displays them in direct and reverse order (without using shortcuts).
 
-### EX7
+# EX7
+Write a program that simulates the throwing of two dice. The program must use randint() to roll the first die and then the second. After the dice are thrown, the program must calculate the sum of the two values. The program must roll the dice 36000 times. 
+Use a one-dimensional array to record all occurrences of each possible sum and determine the most likely value.
+NOTE: What is the most likely value you expect? Does it match your forecasts?
 
-### EX8
+# EX8
 
-### EX9
+# EX9
 
-### EX10
+# EX10
 
-### EX11
+# EX11
 
-### EX12
+# EX12
 Write a function that gives a set of students and grades associated with them and then returns a dictionary of the students and the votes associated with them, divided by letter of the surname. The keys are the groups (a-f), (g-o), (p-z), the values are student lists and grades.
 
 - Define the function of inserting and deleting a given student in the dictionary just created.
 
 - Define the function that you insert to a student in the dictionary one list of votes.
 
-### EX13
+# EX13
 
 **Enjoy**
