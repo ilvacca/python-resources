@@ -69,16 +69,4 @@ The objects in the Appointment class allow you to store, edit and display the ap
 Provide for both classes appropriate constructors default values for the parameters.
 Then write a program that creates some objects Time and Appointment and check the proper functioning of the program while also paying attention to the order of call of the manufacturers.
 
-# EX11
-
-
-# EX12
-Write a function that gives a set of students and grades associated with them and then returns a dictionary of the students and the votes associated with them, divided by letter of the surname. The keys are the groups (a-f), (g-o), (p-z), the values are student lists and grades.
-
-- Define the function of inserting and deleting a given student in the dictionary just created.
-
-- Define the function that you insert to a student in the dictionary one list of votes.
-
-# EX13
-
 **Enjoy**
