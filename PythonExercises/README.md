@@ -63,8 +63,14 @@ Define a *Rectangle* class. This class should have:
 Instantiate a *Rectangle* object and verify the code.
 
 # EX10
+Implement the Time and Appointment classes defined in this way.
+An object of the Time class allows you to store, edit and display a time (for example inside it could have 3 int for hours, minutes and seconds respectively).
+The objects in the Appointment class allow you to store, edit and display the appointment data and in particular they will have two Time objects for start time and end time respectively and a string for the description.
+Provide for both classes appropriate constructors default values for the parameters.
+Then write a program that creates some objects Time and Appointment and check the proper functioning of the program while also paying attention to the order of call of the manufacturers.
 
 # EX11
+
 
 # EX12
 Write a function that gives a set of students and grades associated with them and then returns a dictionary of the students and the votes associated with them, divided by letter of the surname. The keys are the groups (a-f), (g-o), (p-z), the values are student lists and grades.
