@@ -1,11 +1,15 @@
 ### INFO
 Here you can find some useful Python exercises I used during a Data Science course. Work in progress...
 
+____
+
 ### EX1
 The relationship between the sides (a, b) of a triangle and the hypotenuse (h) is given by the formula: 𝑎^2+𝑏^2=ℎ^2. Write a program that reads the length of the sides and calculates the hypotenuse.
 Notes:
 - The square root can be calculated with the function sqrt(), defined in "math" library.
 - To read a keyboard input you can use the raw_input() function that waits a keyboard input and returns it after ENTER is pressed;
+
+____
 
 ### EX2
 Scrivere un programma per convertire una misura data in piedi ai suoi equivalenti in:
@@ -18,6 +22,8 @@ d) metri
 Leggere il numero di piedi e stampare il numero di iarde, pollici, centimetri e metri.
 
 - Nota. 1 piede = 12 pollici, 1 iarda = 3 piedi, 1 pollice = 2,54 cm, 1 m = 100 cm. 
+
+____
 
 ### EX3
 Scrivere un programma che legga i coefficienti a, b, c, d, e, f di un sistema lineare di due equazioni con due incognite e ne mostri la soluzione.
