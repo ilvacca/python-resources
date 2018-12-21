@@ -1,9 +1,10 @@
 #ESERCIZIO 12
-'''Scrivere una funzione che dato un insieme di studenti e voti ad essi associati restituisca un dizionario
-degli studenti e dei voti ad essi associati, suddivisi per lettera del cognome. Le chiavi sono i gruppi (a-f), (g-o), (p-z);
-i valori le liste degli studenti e dei voti.
-Definite la funzione di inserimento e cancellazione di un dato studente nel dizionario appena creato.
-Definite la funzione che inserisca a uno studente presente nel dizionario una lista di voti.'''
+'''Write a function that gives a set of students and grades associated with them returns a dictionary 
+of students and grades associated with them, divided by letter of surname. 
+The keys are the groups (a-f), (g-o), (p-z), the values, the student lists and the grades.
+Define the function of inserting and deleting a given student in the newly created dictionary.
+Define the function that inserts a list of grades for a student in the dictionary.'''
+
 class Subject:
     def __init__(self, name, mark):
         self.name = name
@@ -44,7 +45,7 @@ s1.add_subj("Matematica",7)
 s1.add_subj("Fisica",8)
 classe = []
 classe.append(s1.__dict__)
-s2 = Studente("Adriana", "Volpe")
+s2 = Studente("Andrea", "Rossi")
 s2.add_subj("Matematica",5)
 s1.add_subj("Fisica",6)
 classe.append(s2.__dict__)
