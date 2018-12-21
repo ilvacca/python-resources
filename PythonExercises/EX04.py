@@ -1,5 +1,5 @@
 # Exercise 4
-# Create a calculator
+# Create a simple calculator
 
 def calculator (x, caracters, y):
     if caracters == "+":
