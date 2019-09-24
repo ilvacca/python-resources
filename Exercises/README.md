@@ -72,5 +72,5 @@ Then write a program that creates some objects Time and Appointment and check th
 
 ## Credits
 
-*This tool was developed with* ❤ *by Alessio Vaccaro*.
-[Website](https://www.alessiovaccaro.com) | [LinkedIn](https://www.alessiovaccarophoto.com) 
+*These resources were created with* ❤ *by Alessio Vaccaro*.
+[Website](https://www.alessiovaccaro.com) | [LinkedIn](https://www.linkedin.com/in/alessio-vaccaro/) 
